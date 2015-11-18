@@ -1,0 +1,2 @@
+cartemp/car01_001.jpg 0 301.43460
+cartemp/car01_002.jpg 0 301.43460

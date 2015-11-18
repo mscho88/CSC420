@@ -1,0 +1,2 @@
+mogrify -format pgm cartemp/car01_001.jpg; .//bin/sift < cartemp/car01_001.pgm > cartemp/car01_001.key; rm cartemp/car01_001.pgm; gzip -f cartemp/car01_001.key
+mogrify -format pgm cartemp/car01_002.jpg; .//bin/sift < cartemp/car01_002.pgm > cartemp/car01_002.key; rm cartemp/car01_002.pgm; gzip -f cartemp/car01_002.key
